@@ -1,0 +1,7 @@
+casper-ai-assistant/
+├── .github/
+│   └── workflows/
+│       └── php.yml
+├── index.php
+├── composer.json
+└── README.md
