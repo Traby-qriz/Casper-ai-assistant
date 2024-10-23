@@ -6,7 +6,7 @@ use GuzzleHttp\Client;
 $client = new Client();
 
 // Replace with your OpenAI API key
-$apiKey = 'YOUR_OPENAI_API_KEY';
+$apiKey = getenv('sk-oRvEUhiGK8nyNLCJkBKpPyGJL0hmEj-uaJmAe-VFfoT3BlbkFJ__wayU_ist1NGNCJi6hdkpLLRMxiPRiylM5HslepIA'); 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $inputText = $_POST['inputText'];
