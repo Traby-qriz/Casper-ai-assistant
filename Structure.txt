@@ -5,3 +5,5 @@ casper-ai-assistant/
 ├── index.php
 ├── composer.json
 └── README.md
+
+"casper_ai_sk-oRvEUhiGK8nyNLCJkBKpPyGJL0hmEj-uaJmAe-VFfoT3BlbkFJ__wayU_ist1NGNCJi6hdkpLLRMxiPRiylM5HslepIA"
